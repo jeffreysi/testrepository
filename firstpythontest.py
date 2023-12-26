@@ -1,0 +1,2 @@
+#Display something
+print("Something")
